@@ -28,3 +28,4 @@ C:\Users\parab\myDevopsProject\obj\Debug\net8.0\refint\myDevopsProject.dll
 C:\Users\parab\myDevopsProject\obj\Debug\net8.0\myDevopsProject.pdb
 C:\Users\parab\myDevopsProject\obj\Debug\net8.0\myDevopsProject.genruntimeconfig.cache
 C:\Users\parab\myDevopsProject\obj\Debug\net8.0\ref\myDevopsProject.dll
+c:\Users\parab\myDevopsProject\obj\Debug\net8.0\myDevopsProject.sourcelink.json

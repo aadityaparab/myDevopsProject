@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\parab\\myDevopsProject\\myDevopsProject.csproj": {}
+    "c:\\Users\\parab\\myDevopsProject\\myDevopsProject.csproj": {}
   },
   "projects": {
-    "C:\\Users\\parab\\myDevopsProject\\myDevopsProject.csproj": {
+    "c:\\Users\\parab\\myDevopsProject\\myDevopsProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\parab\\myDevopsProject\\myDevopsProject.csproj",
+        "projectUniqueName": "c:\\Users\\parab\\myDevopsProject\\myDevopsProject.csproj",
         "projectName": "myDevopsProject",
-        "projectPath": "C:\\Users\\parab\\myDevopsProject\\myDevopsProject.csproj",
+        "projectPath": "c:\\Users\\parab\\myDevopsProject\\myDevopsProject.csproj",
         "packagesPath": "C:\\Users\\parab\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\parab\\myDevopsProject\\obj\\",
+        "outputPath": "c:\\Users\\parab\\myDevopsProject\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\parab\\AppData\\Roaming\\NuGet\\NuGet.Config"
